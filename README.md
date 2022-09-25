@@ -28,11 +28,16 @@ void EnciendeApagaLed(int led)
 ## :robot: Link al Proyecto
 
 ## :tv: Link al video
+<a href="https://www.youtube.com/watch?v=VyGjE8kx-O0
+" target="_blank"><img src="https://www.youtube.com/watch?v=VyGjE8kx-O0" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
 ---
 ### Fuentes
 - [Consejos para documentar](https://www.sohamkamani.com/how-to-write-good-documentation/#architecture-documentation).
 - [Lenguaje Markdown](https://markdown.es/sintaxis-markdown/#linkauto).
+
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - [Tutorial](https://www.youtube.com/watch?v=oxaH9CFpeEE).
 
 - [Emojis](https://gist.github.com/rxaviers/7360908).
