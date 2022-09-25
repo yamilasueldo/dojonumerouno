@@ -35,7 +35,7 @@ void EnciendeApagaLed(int led)
 - [Lenguaje Markdown](https://markdown.es/sintaxis-markdown/#linkauto).
 - [Tutorial](https://www.youtube.com/watch?v=oxaH9CFpeEE).
 
-
+- [Emojis](https://gist.github.com/rxaviers/7360908).
 
 ---
 
