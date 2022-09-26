@@ -6,6 +6,7 @@
 - Esteban
 - Marcelo
 - Quiroz
+- Dario Cuda
 
 ## Proyecto: Contador binario.
 ![Tinkercad](./img/ContadorBinario.png)
