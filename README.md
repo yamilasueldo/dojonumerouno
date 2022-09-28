@@ -21,7 +21,7 @@ B0, B1, B2, B3 son #define que utilizamos para agregar los leds, asociandolo a p
 
 (Breve explicación de la función)
 
-~~~ (lenguaje en el que esta escrito)
+~~~ C (lenguaje en el que esta escrito)
 void EncenderBinario(int estado3, int estado2,int estado1,int estado0)
 {
   digitalWrite(B3,estado3);
