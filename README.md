@@ -3,9 +3,8 @@
 
 
 ## Integrantes 
-- Esteban
-- Marcelo
-- Quiroz
+- Esteban Marcelo Quiroz  
+
 
 ## Proyecto: Contador binario.
 ![Tinkercad](./img/ContadorBinario.png)
